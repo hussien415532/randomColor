@@ -1,2 +1,2 @@
 # randomColor
-https://hussien415532/github.io/randomColor/
+https://hussien415532.github.io/randomColor/
